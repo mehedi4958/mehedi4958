@@ -6,7 +6,7 @@
 
 
 ### **Problem Solving**
-- [BeeCrowd Problems](https://github.com/mehedi4958/competitive)
+- [BeeCrowd Problems](https://github.com/mehedi4958/beecrowd)
 
 ### **Read, Learn, and Practice**
 - [Data Structure & Algorithm in Dart](https://github.com/mehedi4958/Data-Structure-Algorithm-in-Dart)
@@ -16,3 +16,6 @@
 - [Simple Chat App](https://github.com/mehedi4958/raychat)
 - [Recipe Finder App](https://github.com/mehedi4958/recipe)
 - [Recipes of The Day](https://github.com/mehedi4958/recipes-of-the-day)
+- [Fooder](https://github.com/mehedi4958/fooderr)
+- [Recipea](https://github.com/mehedi4958/recipea)
+- [Unit Converter](https://github.com/mehedi4958/unit-converter)
