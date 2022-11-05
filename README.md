@@ -9,7 +9,6 @@
 - [BeeCrowd Problems](https://github.com/mehedi4958/beecrowd)
 
 ### **Read, Learn, and Practice**
-- [Data Structure & Algorithm in Dart](https://github.com/mehedi4958/Data-Structure-Algorithm-in-Dart)
 - [Dart Apprentice](https://github.com/mehedi4958/Dart-Apprentice)
 
 ### **Flutter Projects**
