@@ -13,8 +13,9 @@
 
 ### **Flutter Projects**
 - [E-Commernce app - 1 using Provider & Firebase](https://github.com/mehedi4958/ecommerce01)
-- [Basic Zoom Clone with Jitsi Meet & Firebase](https://github.com/mehedi4958/zoom_clone)
 - [Basic Multivendor App with Provider & Firebase](https://github.com/mehedi4958/multi_vendor_01)
+- [TikTok Clone with GetX and Firebase](https://github.com/mehedi4958/tiktok-clone)
+- [Basic Zoom Clone with Jitsi Meet & Firebase](https://github.com/mehedi4958/zoom_clone)
 - [Static Portfolio](https://github.com/mehedi4958/portfolio01) ---- [Portfolio01 Live Demo - Web](https://portfolio01mehedi.netlify.app/#/)
 - [Simple Chat App using Provider & Firebase](https://github.com/mehedi4958/raychat)
 - [Recipe Finder App using Provider](https://github.com/mehedi4958/recipe)
