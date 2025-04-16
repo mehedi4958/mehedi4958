@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehedi4958
-- 👀 I’m an intermediate-level Flutter developer
-- 🌱 Currently I am working as a full-time Software Engineer.
+- 👀 I’m a Flutter developer
+- 🌱 Currently, I am working as a full-time Software Engineer.
 - 💞️ I’m looking to collaborate on any project developed with Dart or Flutter
 - 📫 How to reach me? email: mehedi4958@gmail.com
 
@@ -10,7 +10,7 @@
 | -------- | ------- | --- |
 | BYTM | https://play.google.com/store/apps/details?id=org.bytm.android_app&hl=en | https://apps.apple.com/jp/app/bytm/id6470089776?l=en-US |
 | CreFin | https://play.google.com/store/apps/details?id=io.crefin.loanapp&hl=en | https://apps.apple.com/jp/app/crefin-cre-loan-app/id6480004953?l=en-US |
-| ClockDo | No longer available on Play Store| |
+| ClockDo | No longer available on the Play Store| |
 | MedSer | Coming Soon| |
 
 
