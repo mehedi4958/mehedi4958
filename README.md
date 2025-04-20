@@ -34,3 +34,4 @@
 - [Fooder](https://github.com/mehedi4958/fooderr)
 - [Recipea](https://github.com/mehedi4958/recipea)
 - [Unit Converter](https://github.com/mehedi4958/unit-converter)
+- [Bloc - Clean Architecture Authentication] (https://github.com/mehedi4958/clean-arc-login)
