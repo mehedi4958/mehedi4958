@@ -22,9 +22,12 @@
 
 ### **Flutter Projects**
 - [Full-stack Flutter ---- Basic Slack Clone with Serverpod](https://github.com/mehedi4958/serverpod_babble)
+- [Food Delivery App](https://github.com/mehedi4958/food-delivery)
 - [Video Player app with Controls](https://github.com/mehedi4958/video-player)
 - [E-Commernce app - 1 using Provider & Firebase](https://github.com/mehedi4958/ecommerce01)
 - [Basic Multivendor App with Provider & Firebase](https://github.com/mehedi4958/multi_vendor_01)
+- [Chat App](https://github.com/mehedi4958/chatty)
+- [Real-time Chat App with Firebase](https://github.com/mehedi4958/master-flutter-real-time-chat-app)
 - [TikTok Clone with GetX and Firebase](https://github.com/mehedi4958/tiktok-clone)
 - [Basic Zoom Clone with Jitsi Meet & Firebase](https://github.com/mehedi4958/zoom_clone)
 - [Static Portfolio](https://github.com/mehedi4958/portfolio01) ---- [Portfolio01 Live Demo - Web](https://portfolio01mehedi.netlify.app/#/)
@@ -35,3 +38,7 @@
 - [Recipea](https://github.com/mehedi4958/recipea)
 - [Unit Converter](https://github.com/mehedi4958/unit-converter)
 - [Bloc - Clean Architecture Authentication](https://github.com/mehedi4958/clean-arc-login)
+
+### **Backend Projects**
+- [Chat App Backend with Laravel](https://github.com/mehedi4958/chatty-backend)
+- [Food Delivery App Backend with Laravel](https://github.com/mehedi4958/food-deliver-backend)
