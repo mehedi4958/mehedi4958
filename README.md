@@ -10,6 +10,7 @@
 | -------- | ------- | --- |
 | BYTM | https://play.google.com/store/apps/details?id=org.bytm.android_app&hl=en | https://apps.apple.com/jp/app/bytm/id6470089776?l=en-US |
 | CreFin | https://play.google.com/store/apps/details?id=io.crefin.loanapp&hl=en | https://apps.apple.com/jp/app/crefin-cre-loan-app/id6480004953?l=en-US |
+| PlaneteerApp | https://play.google.com/store/apps/details?id=app.planeteer&hl=en | |
 | ClockDo | No longer available on the Play Store| |
 | MedSer | Coming Soon| |
 
